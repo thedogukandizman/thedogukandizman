@@ -92,18 +92,6 @@ ETL & Data Pipeline      ███████████████        85
 
 ---
 
-## 🌟 Achievements
-
-<div align="center">
-
-🏅 **SQL Expert Certified**  
-🏅 **Microsoft Power BI Data Analyst Associate**  
-🏅 **Database Design Professional**  
-🏅 **Advanced Data Analytics Specialist**  
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
